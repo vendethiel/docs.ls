@@ -1,0 +1,14 @@
+{
+  "name": "docs.ls",
+  "version": "1.0.0",
+  "description": "In-REPL documentation for LS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vendethiel",
+  "license": "ISC",
+  "dependencies": {
+    "indent": "*"
+  }
+}
